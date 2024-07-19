@@ -1,0 +1,1039 @@
+Comment,URL,Actual,Predicted
+# ye lower middle me hai kyuki esme mitti ka chulha or gas cylinder ka use dono hai gas cylinder ka use tabhi hota hai jab mitti ka chulha jlane ke liye lakdiya nhi milti ,/media/atif_temp/Aatif/valid/class4/340013_CookingArea_7.jpg,class4,lower middle income
+# esme mitti ke chulhe ke alawa koi or sadhan nhi hai ,/media/atif_temp/Aatif/valid/class3/375001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/415004_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/480011_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/315014_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/301010_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/437010_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/391003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/184004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/301004_CookingArea_7.jpg,class0,low income
+# NA ,/media/atif_temp/Aatif/valid/class0/263006_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/125005_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/325011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/159001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/164006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/462006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/413003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/446004_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class4/129012_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/145011_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/424003_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/61002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/161002_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/278008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/386008_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/1023003_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/479003_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/273014_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/58006_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/68003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/258001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/461002_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/303007_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/408014_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/79009_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/78007_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/100012_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/263004_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/244007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/150009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/463006_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/33007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/316005_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/461009_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/364005_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/260004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/208001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/186003_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/380003_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/482009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/303008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/28011_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/487008_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/73008_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/406008_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/432010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/1015011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1012003_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/222013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/106013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/217001_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/312004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/323005_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/367004_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/277002_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/187003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/505011_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/283013_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/14003_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/274011_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/79012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/300002_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/33001_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/220002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/154003_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/310007_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/483003_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/524012_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class0/300007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/476001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/415007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/76002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/280007_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class4/208012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/100014_CookingArea_7.jpg,class4,high income
+# NA,/media/atif_temp/Aatif/valid/class3/201004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/232005_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/365006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/480008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/304006_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/497003_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/213012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/326004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/154009_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/192007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/38002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/424005_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/482003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/132010_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/133002_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class2/403002_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/431010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1055013_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/89001_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/374006_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/433012_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/160004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/269001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/306007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/282007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/275001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/255011_CookingArea_7.jpg,class4,high income
+# NA,/media/atif_temp/Aatif/valid/class4/134001_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/398007_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/82004_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/190004_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/84001_CookingArea_7.jpg,class1,low income
+# NAA,/media/atif_temp/Aatif/valid/class3/33003_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/290002_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1031003_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/511013_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/449005_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/50003_CookingArea_7.jpg,class4,middle income
+# ESME NATURE SE JIVAN YAPAN HAI ,/media/atif_temp/Aatif/valid/class4/481001_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class2/321009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/367003_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/212004_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/287004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/63008_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/163007_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/182002_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/197012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/117010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/205003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/98002_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/52005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/426007_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/261008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/467010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1049003_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/181011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/2007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/456001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/289005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/504005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1071001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/110010_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/314003_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/426002_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/286009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/49005_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/340009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/265010_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/37009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/72010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/95012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/115010_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/90001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/79007_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/204002_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1032009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/88002_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/403011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/477010_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/70009_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/187001_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/200005_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/284004_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/195009_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/483004_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class4/100011_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/438005_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/263010_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/240001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/458002_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/449001_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/439013_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/476013_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/419007_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/456005_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/156008_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/225001_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/235006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/494012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/440010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/223003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/367007_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/405002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/54002_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/302002_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/318012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/24012_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/273010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/506009_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/317012_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/505010_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/394010_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1009003_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/277003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/389006_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/361009_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/216010_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/80014_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/93004_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/187012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/518013_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1071017_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/125012_CookingArea_7.jpg,class3,high income
+# NA,/media/atif_temp/Aatif/valid/class3/391009_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1009002_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/267006_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/312002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/464012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/502006_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/140004_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/379007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/305012_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class3/436005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/80006_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/235012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/275002_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/6014_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/79004_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class0/298005_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/341008_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/224008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/436010_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/229004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/417013_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/299013_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class4/128014_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/198006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/435011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/106011_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class3/1022004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/44001_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1069006_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/364004_CookingArea_7.jpg,class4,lower middle income
+# N,/media/atif_temp/Aatif/valid/class0/201006_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/477003_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/130010_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/209012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/430012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/233001_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/98008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/6003_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/491008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/292008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/1049006_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/147010_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/188008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/405006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/382004_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/111010_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/366008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/86004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/494004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/462002_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/149008_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/106001_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/398003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/121004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/182001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/106002_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/496004_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/212009_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/307007_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/1028008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/199008_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/20013_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/204009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/506013_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/472003_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/113004_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/1015004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/11008_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/462013_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/128007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/121012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/109014_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/155002_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/493001_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/304002_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/255009_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/182012_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/1003001_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/375011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/515007_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/509005_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/281002_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/16005_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/239002_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/260003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/72011_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/225002_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/112003_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/369008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/264012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/60012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/455012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/460012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/79011_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/141001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/513010_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/279007_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/54005_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/65001_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/237001_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/299012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/270009_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/194008_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/518014_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/255005_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/405001_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/211010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/1055004_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/484002_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/328003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/13010_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/266011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/46003_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class2/391007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/90009_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class3/403012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/273004_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class4/208007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/148001_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/386011_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/21002_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/316002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/386001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/98001_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/50002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/479005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/503001_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/500013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/486002_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/123004_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/501007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/194001_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/361001_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/376010_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/227004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/398006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/469008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/334005_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/333007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/292014_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/411014_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/228010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/80008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/257003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/21003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/455014_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/450006_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/207008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/273003_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/409012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/514003_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/27012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/214009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/224012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/184007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/212001_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/340012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/73007_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/249001_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/30007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/198014_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/161009_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/234011_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/499012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/440006_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/280012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/122003_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/495009_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/191005_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/236011_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/314012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/95006_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/242003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/369011_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/87010_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/69012_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/201013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/451012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/433007_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/418010_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class3/365007_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/395005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/505001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/416006_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/159011_CookingArea_7.jpg,class1,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class4/208003_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/325007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1039003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/151005_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/481007_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/510006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/217009_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class4/2009_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/134005_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/524002_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/309003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/274004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/302011_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/270012_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class3/212008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/512004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/243014_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/184001_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/43011_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/508006_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/154010_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/427007_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/145010_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/235003_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/87004_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/490010_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/383014_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/483014_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/206006_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/50009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/430010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/1053002_CookingArea_7.jpg,class3,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/387007_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/378009_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/466010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/446001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/319012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/250009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/461003_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class0/469007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/145001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/223006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/183001_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/456004_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/289001_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/337005_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/256011_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/3012_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/194009_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/195011_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/187004_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/253001_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/465014_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/492012_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/9001_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/246011_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/341002_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/104003_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/310011_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/337008_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/149001_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/118007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/298008_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/413012_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/339007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/514007_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/1013004_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/1036005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/10003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/513008_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/291004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/416010_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/269011_CookingArea_7.jpg,class2,low income
+# N,/media/atif_temp/Aatif/valid/class0/443006_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/384012_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/438007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/11001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/155004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/250011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/313013_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/464011_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/59012_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/68007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/293007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/156013_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/116013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/150007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/446005_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/324010_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/84009_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class2/364010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/122001_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/45011_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/387012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1042013_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/210009_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/281004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/388004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/229013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/215005_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1003002_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1069011_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/217013_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/24003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/299010_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/397008_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class3/89003_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/195013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1023002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/517011_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1042012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/308006_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/428005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/510003_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/365014_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/219007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/369014_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/421012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/410008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/506008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/197008_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class3/247012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/368004_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/196002_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/400011_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/523004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/512002_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/1069003_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/195005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/503004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/23006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/149010_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1055011_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class3/184005_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/122007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/453001_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/518008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/291006_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/156002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/464013_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/57012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/1005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/155006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/8007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/385008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/238012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/223012_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/133001_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/443003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/133009_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/70014_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/319006_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/272009_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/245009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/324009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/272011_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/483011_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/63011_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/285008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/43003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/389008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/470003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/148011_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/40004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/102014_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/232001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/482012_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class2/1002008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/514002_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/480012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1042017_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/498014_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/183013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/187005_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/66003_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/445006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/479010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/28008_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/184012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/317004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/111004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/316012_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/404012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/483001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/94012_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/215006_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/473013_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/136014_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/413009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/396008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/368001_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/73010_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/336004_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/312005_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/100001_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/130007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/69008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/77005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/275007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1028001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/19006_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/50014_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/292007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/306006_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/50010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/456010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/267010_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/411001_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/87005_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/389004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/372005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/24007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/186004_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/436004_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/278009_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/394005_CookingArea_7.jpg,class4,lower middle income
+# NA ,/media/atif_temp/Aatif/valid/class1/235008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/376012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/101009_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/296010_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/308012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/512009_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/155009_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/195014_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/126008_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/87009_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/268011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/421011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/98003_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/435009_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/87002_CookingArea_7.jpg,class2,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/91005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/185001_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/108005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/197011_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/184011_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class0/317007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/216002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/6007_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/203014_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/455004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/320011_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/336012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/197009_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class2/27001_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/46009_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/13007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/104013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/18006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/341011_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/269009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/199007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/516009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/451010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/237005_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/160009_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/393010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/414005_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/82003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/224006_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/381011_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/204004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/135007_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/140007_CookingArea_7.jpg,class3,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/57006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/224007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1009012_CookingArea_7.jpg,class0,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/234008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/333002_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/399011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/192002_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/414007_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/419005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/498009_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/249002_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/1013005_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/79003_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/376005_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/382009_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/510010_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/153011_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/85009_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/290008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/127012_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/207004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/131007_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/467003_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/252012_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class2/294009_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/486011_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/156011_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/230001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/128013_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/234004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/466012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/427011_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/140006_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/470013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/398008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/434010_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/110007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/506007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/453012_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/514005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/13013_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/98004_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/108006_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/37011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/159004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/482005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/69011_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/391013_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/391002_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class2/122004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/183014_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/89009_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/35007_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/14010_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/142009_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/2006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/134004_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/77001_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/18012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/376001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/420004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/239003_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/484008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/49009_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/271005_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/374012_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/288007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/432011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/106009_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/394001_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/321006_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/362004_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/510013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/378010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/468010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/363006_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/305014_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/1010007_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/473009_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/395012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/476014_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/162003_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/32010_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class3/210003_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/281005_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/334010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/473001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/212002_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/31010_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/144008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/216012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/438009_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/337007_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/494011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/188010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/489011_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/213001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/412011_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/258008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/161001_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/366001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/276008_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/467009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/309012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/111003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/459004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/425014_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/215007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/217006_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1006013_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/19012_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/137008_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/32013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/411008_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/330005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/457006_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/26012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/224001_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/111008_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/134007_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/304011_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/6001_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/389005_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/451008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/378012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/2010_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/312006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1028006_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/143005_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/337002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/306010_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/132004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/99006_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/164005_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/121009_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/485011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/161010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/11009_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/364008_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/58014_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/62009_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/108013_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/510001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/410002_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/441012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/517008_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/410004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/67001_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/310006_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/120010_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/185010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1002017_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class2/54012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/32007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/424007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/126002_CookingArea_7.jpg,class2,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class0/76013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/395011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/79002_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/363004_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1049001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/310008_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/153002_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/333009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/463004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/318001_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/285012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/432008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/292013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/190005_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/130006_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/240003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/491006_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/6013_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/469011_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/450010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/410001_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/305003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/191010_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/337012_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/250007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/254009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/142002_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/219004_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/368008_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/339008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/485004_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/339003_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/333010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/319010_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/99008_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/117005_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/518010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/370001_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/81003_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/215008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/389002_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/399008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/97007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/13012_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/1017011_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/319011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/131005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/133006_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/338004_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/183012_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/137010_CookingArea_7.jpg,class3,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class0/154006_CookingArea_7.jpg,class0,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/445009_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/334004_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/364006_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/442012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/145006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/195008_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/333012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/192001_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/247005_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/213003_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/388003_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/453005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/1013016_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/40003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/1042008_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/82005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/158014_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/476008_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/66012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/458007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/510008_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class3/271001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/422008_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/287003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/332005_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/511014_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/478006_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/337014_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/509009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/426004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/38006_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/448009_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/402011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1050008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/386003_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1042007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/337013_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/251007_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/111012_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/470006_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/144005_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class2/403009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/266008_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/420006_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/457007_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1003018_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/128003_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/282010_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/516004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/152011_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/368005_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/399001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/26005_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/524009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/143012_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/247009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/332012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/486001_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/46007_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/372012_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/442013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/498010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/451004_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class4/294008_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/381013_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/508010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/288010_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/395007_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/502009_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/93005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/258004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/333005_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/182011_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/44006_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/383002_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/132002_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class1/2011_CookingArea_7.jpg,class1,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/389011_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/224002_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/215003_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/123010_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/447012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/499004_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/472006_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/17009_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/453003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/68012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/84010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/227011_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/51005_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/42002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/372004_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/443009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class0/142012_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/219005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/233011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/343008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/64007_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/98009_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/100010_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/339001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class3/437003_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/473012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/77004_CookingArea_7.jpg,class2,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class3/418004_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/200002_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/371004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/142013_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/340011_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class4/406011_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/430009_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/340010_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/505002_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/386004_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/261011_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/452002_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/419008_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/265004_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/441003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class2/282008_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/470014_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class1/253003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/375005_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class0/446013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class3/424001_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/388007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/500011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/330004_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/280002_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class3/408011_CookingArea_7.jpg,class3,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/468005_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class0/183007_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/362002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class3/48013_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class4/285002_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class3/427010_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/105005_CookingArea_7.jpg,class2,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/443014_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class2/461011_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/454008_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/189013_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class4/97011_CookingArea_7.jpg,class4,middle income
+# NA,/media/atif_temp/Aatif/valid/class1/116008_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/164007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/423009_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class0/448011_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/444009_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/266007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/407010_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/520013_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class0/1028017_CookingArea_7.jpg,class0,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/329012_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/245002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class2/32002_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class3/14002_CookingArea_7.jpg,class3,middle income
+# NA,/media/atif_temp/Aatif/valid/class2/154002_CookingArea_7.jpg,class2,middle income
+# NA,/media/atif_temp/Aatif/valid/class3/413007_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class2/28009_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class4/498003_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/61007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class1/88012_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/463007_CookingArea_7.jpg,class4,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class4/1007001_CookingArea_7.jpg,class4,higher middle income
+# NA,/media/atif_temp/Aatif/valid/class3/502012_CookingArea_7.jpg,class3,low income
+# NA,/media/atif_temp/Aatif/valid/class1/57004_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/276001_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class0/193003_CookingArea_7.jpg,class0,low income
+# NA,/media/atif_temp/Aatif/valid/class1/43002_CookingArea_7.jpg,class1,low income
+# NA,/media/atif_temp/Aatif/valid/class4/294011_CookingArea_7.jpg,class4,low income
+# NA,/media/atif_temp/Aatif/valid/class1/117007_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class2/18003_CookingArea_7.jpg,class2,low income
+# NA,/media/atif_temp/Aatif/valid/class1/144003_CookingArea_7.jpg,class1,lower middle income
+# NA,/media/atif_temp/Aatif/valid/class0/422004_CookingArea_7.jpg,class0,low income

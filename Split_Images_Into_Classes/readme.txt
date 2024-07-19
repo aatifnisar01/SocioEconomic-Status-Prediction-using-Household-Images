@@ -1,0 +1,4 @@
+-> Compare 'unique HHD identifier' of 'nerlp_labels_oct2019.csv' with image key (initials) of 'interior images.'
+-> Create 5 classes; 0, 1, 2, 3, 4 on the basis of income.
+-> train-test-val split into 6:2:2 ratio.
+-> Create resp folders.

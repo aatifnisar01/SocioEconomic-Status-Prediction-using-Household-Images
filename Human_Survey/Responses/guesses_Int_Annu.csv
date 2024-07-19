@@ -1,0 +1,1004 @@
+Comments,URL,Actual,Predicted
+# middle income kyuki es house me jrurt ka saman hai jo hona chahiye ache se house ko maintain rkha hua hai ,D:/train\class1\1045013_HouseInterior_6.jpg,class1,middle income
+# yaha pr rhne ki suvidha hai thik thak hai ,D:/train\class0\1028003_HouseInterior_6.jpg,class0,lower middle income
+# es ghar me jiwan yapan mushkil nhi hai roj kaam me aane wala jrurt ka saman hai ,D:/train\class0\482014_HouseInterior_6.jpg,class0,lower middle income
+# thoda sansadhan ki kami hai ghar me thodi mushkil hai ,D:/train\class0\83001_HouseInterior_6.jpg,class0,low income
+# jrurt ka saman ki thodi kami hai ,D:/train\class0\231010_HouseInterior_6.jpg,class0,low income
+# family members ka rhna thoda rhna mushik hai agr members jada hai or proper ghr ki chhat thik nhi hai ,D:/train\class2\471001_HouseInterior_6.jpg,class2,low income
+# any ,D:/train\class2\462010_HouseInterior_6.jpg,class2,lower middle income
+# maintain nhi hai ghr kuch bhi proper nhi hai ghr ki diware bhi teen ki hai ,D:/train\class1\297005_HouseInterior_6.jpg,class1,low income
+# this house is built by baas baliyo ,D:/train\class1\287009_HouseInterior_6.jpg,class1,low income
+# chappar ka bna hua hai or koi suvidhabhi nhi hai,D:/train\class1\65008_HouseInterior_6.jpg,class1,low income
+# any,D:/train\class1\65003_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\10010_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class0\288001_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\471002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\164013_HouseInterior_6.jpg,class0,lower middle income
+# koi jarurt k,D:/train\class2\189005_HouseInterior_6.jpg,class2,lower middle income
+# jrurt ,D:/train\class4\157010_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\299001_HouseInterior_6.jpg,class3,low income
+# jrut ki thodi suvidha hai ,D:/train\class3\28014_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\71008_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\385005_HouseInterior_6.jpg,class4,middle income
+# jrurt ki thodi bhot suvidha hai ,D:/train\class2\9012_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\291005_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\262003_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\158001_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\254011_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class4\394011_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\315003_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\94007_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class1\129011_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class3\379013_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\412001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\449012_HouseInterior_6.jpg,class3,higher middle income
+# na,D:/train\class1\102004_HouseInterior_6.jpg,class1,higher middle income
+# na,D:/train\class0\17011_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\226001_HouseInterior_6.jpg,class0,low income
+# na ,D:/train\class0\512006_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\40002_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\109008_HouseInterior_6.jpg,class1,high income
+# room condition is very low,D:/train\class1\485002_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class3\328002_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\418001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\221005_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\495011_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\211001_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\1042001_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\406003_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\2004_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class1\460001_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\150012_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class3\487013_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\503010_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\387009_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class3\396005_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\523005_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\41010_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class3\52011_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\472010_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\18008_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class1\432008_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class3\62012_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\512008_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\12013_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class4\34001_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class0\1039002_HouseInterior_6.jpg,class0,higher middle income
+# na,D:/train\class0\267014_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\463001_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\330002_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\394006_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\101012_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class3\420011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\494002_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\3008_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class1\91010_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\502014_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\231006_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\1040008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\497010_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class4\1007018_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class2\8002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\9001_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class0\296004_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class1\237010_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class0\474012_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class4\98011_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class1\456011_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class3\389012_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\404002_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\44005_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class4\210004_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\392004_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\4011_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\370012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\493012_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\114014_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class2\463008_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class3\338002_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\490011_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class2\40005_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class3\156010_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\409004_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\382008_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\384004_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\247006_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\341006_HouseInterior_6.jpg,class4,low income
+# na,D:/train\class4\440008_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\505012_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class2\98005_HouseInterior_6.jpg,class2,higher middle income
+# na,D:/train\class4\311001_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class0\196006_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\442008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\411014_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\226012_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\494009_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\520014_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\289006_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\418007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\372003_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\192004_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class4\452014_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\454011_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\470008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\474005_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\260008_HouseInterior_6.jpg,class3,lower middle income
+# na ,D:/train\class3\47010_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\73012_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class4\115004_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class1\205011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\485010_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class4\128010_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\82012_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\41011_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\494010_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\102008_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\446008_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\103010_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class3\261003_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\223011_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\478011_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\378011_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\507011_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class3\186005_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\242001_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\188009_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\364002_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\1050017_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\78002_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\278013_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\135008_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\36014_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class2\518012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\143007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\93012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\20002_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class1\41009_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class4\153009_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\327009_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\104010_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\403006_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\1040001_HouseInterior_6.jpg,class0,high income
+# na,D:/train\class3\375008_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\131012_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\146008_HouseInterior_6.jpg,class1,higher middle income
+# na,D:/train\class3\95002_HouseInterior_6.jpg,class3,higher middle income
+# na,D:/train\class0\335007_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\67008_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class3\450004_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\1003007_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class1\502002_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\17010_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class3\127010_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\488006_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\201007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\427003_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\78001_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\154003_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class0\1009016_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class4\26001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class4\396006_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\218007_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class0\452005_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\333009_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\512001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\43004_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\20005_HouseInterior_6.jpg,class3,higher middle income
+# na,D:/train\class1\277005_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\96002_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\480007_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\120009_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class4\255003_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class4\515002_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\55010_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\282012_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\284008_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\523001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\392003_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\97003_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\189014_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\37012_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\517004_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\428006_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\327008_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\82002_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\480004_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\2012_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\236003_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\504007_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\126014_HouseInterior_6.jpg,class2,higher middle income
+# na,D:/train\class4\1073018_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class0\282009_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class2\435008_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\189010_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class2\102009_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\185008_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\160012_HouseInterior_6.jpg,class3,higher middle income
+# na,D:/train\class1\279009_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\490001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\511010_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\55002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class3\503002_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\497005_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\27011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\113011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\187013_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\200009_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\131011_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class3\1049017_HouseInterior_6.jpg,class3,high income
+# na,D:/train\class4\507010_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class4\341003_HouseInterior_6.jpg,class4,low income
+# na,D:/train\class4\374005_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\268010_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class1\89008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\86012_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\417011_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\209001_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\114008_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\227001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\404006_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\27005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\419003_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class2\77003_HouseInterior_6.jpg,class2,higher middle income
+# na,D:/train\class0\226011_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class4\228003_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class0\60006_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\519008_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\503007_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class1\335014_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\458011_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class4\157006_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\338014_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class2\294009_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\480006_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\85010_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\158003_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\219002_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\371003_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\116002_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class4\35002_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\398001_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\182009_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\9010_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\399004_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\362009_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class2\62005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\56004_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\308008_HouseInterior_6.jpg,class3,low income
+# na,D:/train\class2\163011_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\92010_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\490003_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\58008_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\1001003_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\424002_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\490012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\411004_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\337003_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\427006_HouseInterior_6.jpg,class3,middle income
+# ba,D:/train\class2\119003_HouseInterior_6.jpg,class2,middle income
+# ba,D:/train\class0\281010_HouseInterior_6.jpg,class0,lower middle income
+# ba,D:/train\class4\240009_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\251012_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class3\396013_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\246011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\500005_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class2\58010_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\437008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\278006_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class3\514012_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\517006_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class1\1023012_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class1\513002_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class2\482005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\201009_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class3\141011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\66005_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\415011_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\291008_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\83010_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\1001_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\185007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\75003_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\508011_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\72002_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class3\417007_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\185013_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\437006_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\201001_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\380001_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\438010_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\135001_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\232009_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class2\388012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class0\16014_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\1055001_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class3\519003_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\435005_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\411002_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\113010_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\405014_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\290012_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\91006_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class1\64003_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class0\224009_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\516007_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\68002_HouseInterior_6.jpg,class2,higher middle income
+# na,D:/train\class3\333008_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\207011_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class1\524014_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class2\474002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\136011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\25007_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\453004_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\61009_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\473005_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\137004_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\425010_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\313014_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\105006_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\58007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\47009_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\298011_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\136005_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\77011_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class2\104004_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\247004_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\24008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\9011_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\220007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\325006_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\457009_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\65002_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\1010013_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class3\159010_HouseInterior_6.jpg,class3,higher middle income
+# na,D:/train\class3\449007_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\439001_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\437001_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\59002_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\193007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\299006_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\401003_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\365011_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class0\231002_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\41002_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\1016008_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class3\391005_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\300012_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\184003_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\124010_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class0\319004_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\483010_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\456007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\401012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class2\108011_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class2\274012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class1\317011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\238010_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class0\67014_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\200004_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class3\39004_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\387011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\376013_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\141008_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\1017001_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class4\302012_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\286001_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\391011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\324011_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class4\153006_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\485009_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\518007_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\20008_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class2\383011_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class2\487002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class3\1002_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\147008_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\240011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\87012_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class1\203006_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\437004_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\158010_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\455001_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\289002_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\391010_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\40010_HouseInterior_6.jpg,class3,low income
+# na,D:/train\class1\401008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\153008_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\394003_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\127009_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class4\298006_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\398011_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\121002_HouseInterior_6.jpg,class4,higher middle income
+# na,D:/train\class2\92003_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class1\236008_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class4\403014_HouseInterior_6.jpg,class4,low income
+# na,D:/train\class2\149012_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\108001_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\94013_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\134003_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\473012_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\6008_HouseInterior_6.jpg,class0,lower middle income
+# ga,D:/train\class2\161011_HouseInterior_6.jpg,class2,middle income
+# ga,D:/train\class4\304007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\188004_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class3\78009_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\338008_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class1\81011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\295011_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\127011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\75002_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class1\520010_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\405011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\67011_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\288012_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\101001_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class0\301005_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\126003_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\260011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\432006_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\370008_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class0\147009_HouseInterior_6.jpg,class0,higher middle income
+# na,D:/train\class1\1055004_HouseInterior_6.jpg,class1,higher middle income
+# na,D:/train\class2\4005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\303005_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\211004_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class2\54014_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class0\288004_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class2\76004_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class3\383010_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\312001_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\475004_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\272006_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\460014_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class2\94003_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\16004_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class0\477002_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\14012_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\278012_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class0\39010_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class3\474004_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\84012_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\260013_HouseInterior_6.jpg,class3,low income
+# na,D:/train\class4\153012_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\338005_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\478012_HouseInterior_6.jpg,class4,low income
+# na,D:/train\class4\459011_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\313005_HouseInterior_6.jpg,class4,low income
+# na,D:/train\class4\386007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class4\456003_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\159005_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class3\439002_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\25011_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\182003_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class2\279003_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class3\397007_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\1010017_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\323009_HouseInterior_6.jpg,class4,low income
+# na,D:/train\class2\109012_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\18012_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\92011_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\232006_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class0\271007_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class3\114005_HouseInterior_6.jpg,class3,low income
+# na,D:/train\class1\326010_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class0\1064005_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class0\254004_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\380004_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\199003_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\234003_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class4\110009_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\13002_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\434002_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class3\302005_HouseInterior_6.jpg,class3,low income
+# na,D:/train\class1\187009_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class1\301007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\246006_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class0\236001_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\276011_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\218010_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\373009_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\1071016_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\69007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\503013_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\313001_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class4\313011_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\330001_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\104005_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\383005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\462014_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class4\203001_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\288002_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\449009_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\1022008_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\263002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\76009_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\519012_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\252001_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\430013_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\154002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\221008_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\1063004_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class2\309006_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\407007_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\339004_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class0\139010_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\197001_HouseInterior_6.jpg,class4,low income
+# na,D:/train\class1\1060018_HouseInterior_6.jpg,class1,higher middle income
+# na,D:/train\class1\340001_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class4\410005_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\135011_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\82001_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\387003_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\507007_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class2\320006_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class3\394004_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\58013_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\51010_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class1\514003_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\254002_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class2\105001_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class3\72012_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\239012_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class2\191006_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\424011_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\503011_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class2\164010_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class1\213001_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\449008_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\1006003_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\425013_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class0\142005_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\136008_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class3\40001_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class0\242010_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\457005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\483012_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\124002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\39005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\201005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\1031018_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class4\458005_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class2\466008_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class4\204011_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\1053003_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class3\56007_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\141005_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class1\332006_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\338003_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class1\262013_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\304001_HouseInterior_6.jpg,class1,middle income
+# na,D:/train\class2\47002_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class3\130009_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\163003_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class0\181013_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\14005_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class3\476004_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\105003_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\498006_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\473003_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class0\16012_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\338007_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\72003_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\45002_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\284007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class1\311007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\259007_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class3\519006_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\209008_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class2\19004_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class0\285005_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class1\95005_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\194007_HouseInterior_6.jpg,class3,low income
+# na,D:/train\class1\111006_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\259006_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class4\213007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\56003_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class3\427005_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\211012_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class1\387007_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class0\219010_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class3\212008_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class4\120011_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class4\429011_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class0\142006_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class2\449002_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\221001_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class3\469002_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\477004_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class3\26006_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class0\330010_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class0\249007_HouseInterior_6.jpg,class0,low income
+# na,D:/train\class1\65006_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class4\510007_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\1001001_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class4\125009_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class3\119011_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class4\71003_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class2\35011_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class0\488005_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\198013_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class4\112008_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\491004_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\147006_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\62008_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\253011_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\5003_HouseInterior_6.jpg,class2,middle income
+# na,D:/train\class3\452004_HouseInterior_6.jpg,class3,low income
+# na,D:/train\class4\507009_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class3\438003_HouseInterior_6.jpg,class3,middle income
+# na,D:/train\class2\384008_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\124008_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class2\128012_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class1\238003_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class3\35008_HouseInterior_6.jpg,class3,lower middle income
+# na,D:/train\class1\211010_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class2\340008_HouseInterior_6.jpg,class2,low income
+# na,D:/train\class1\17003_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class0\335006_HouseInterior_6.jpg,class0,lower middle income
+# na,D:/train\class0\138007_HouseInterior_6.jpg,class0,middle income
+# na,D:/train\class1\401005_HouseInterior_6.jpg,class1,lower middle income
+# na,D:/train\class1\221010_HouseInterior_6.jpg,class1,low income
+# na,D:/train\class4\495007_HouseInterior_6.jpg,class4,middle income
+# na,D:/train\class2\77007_HouseInterior_6.jpg,class2,lower middle income
+# na,D:/train\class4\314009_HouseInterior_6.jpg,class4,lower middle income
+# na,D:/train\class1\423008_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class1\199005_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class3\508013_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class3\22008_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class3\44009_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\419002_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\504002_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\459007_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class1\253009_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class1\1003006_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class3\100004_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class0\307006_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\1016001_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\236006_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\21005_HouseInterior_6.jpg,class3,low income
+# NA,D:/train\class1\129006_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\19011_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class2\486007_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class2\302001_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class4\131010_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class4\457008_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\193011_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class1\383007_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\217007_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class1\243004_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class2\69003_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class3\505004_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\84001_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class4\381010_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class4\1022001_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\430014_HouseInterior_6.jpg,class0,higher middle income
+# NA,D:/train\class0\56014_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\146003_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\185003_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\97004_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class4\245012_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\419006_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\94009_HouseInterior_6.jpg,class2,low income
+# NA,D:/train\class1\303012_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class4\113008_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\268002_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\331011_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class2\58009_HouseInterior_6.jpg,class2,low income
+# NA,D:/train\class1\371012_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class3\522004_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class3\210008_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\193008_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\317002_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class0\267001_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class4\514010_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class2\413005_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class0\373014_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\472014_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\514014_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class4\93007_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\487009_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class3\104006_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class4\429007_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class3\421003_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\149010_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class0\110006_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class1\181002_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class0\307012_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class1\116004_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\233005_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\324006_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class0\37003_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class1\190002_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class1\191014_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class3\485003_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class2\230003_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class0\231012_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\414011_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class4\489007_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class2\148013_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class0\1039007_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class4\53009_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class2\50007_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\456002_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\225005_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class1\14004_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class0\257001_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class2\417003_HouseInterior_6.jpg,class2,low income
+# NA,D:/train\class0\102002_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class3\439010_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\249005_HouseInterior_6.jpg,class2,low income
+# NA,D:/train\class3\25012_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class4\247003_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class4\478013_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\1031002_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\464002_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class3\482013_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\441001_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\1057012_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class2\395008_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\426003_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\1047007_HouseInterior_6.jpg,class1,higher middle income
+# NA,D:/train\class3\367005_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class4\182006_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\63006_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\401009_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class3\128009_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class1\110001_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class1\162002_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class3\493011_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class0\3011_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class4\192009_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\139001_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class0\198011_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\269010_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\1053001_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\381009_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\249013_HouseInterior_6.jpg,class3,low income
+# NA,D:/train\class0\257006_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class4\46005_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\206002_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\282005_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class1\193004_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class4\418008_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class2\124001_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class1\283006_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\494008_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class3\35001_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class3\361012_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class4\251001_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\25005_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class4\478014_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class2\30008_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class3\77010_HouseInterior_6.jpg,class3,higher middle income
+# NA,D:/train\class1\318011_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\504012_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\9009_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class2\39011_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class3\125010_HouseInterior_6.jpg,class3,higher middle income
+# NA,D:/train\class1\37004_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\118013_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\275003_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class4\294001_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class0\1023013_HouseInterior_6.jpg,class0,higher middle income
+# NA,D:/train\class2\240007_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\469008_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\444010_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class1\362002_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class4\431008_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class0\46013_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class0\329008_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class0\257004_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class4\283002_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\264010_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class3\477012_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class2\103012_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class2\85012_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class3\490014_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\89005_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class3\196012_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class0\334011_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class2\42009_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class2\432002_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class3\240006_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class4\217002_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class0\284012_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\163005_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class1\223009_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\181008_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class0\189008_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class3\435006_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class0\309014_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\407010_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class2\45009_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class2\291010_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\27004_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class1\214005_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\1006_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class3\416004_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class2\300002_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class0\318004_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class2\492001_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\440011_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\75001_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\140005_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class4\291014_HouseInterior_6.jpg,class4,low income
+# NA,D:/train\class2\455011_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class4\86002_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\155005_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\206003_HouseInterior_6.jpg,class0,higher middle income
+# NA,D:/train\class2\51007_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class0\477009_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class1\24006_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class4\91002_HouseInterior_6.jpg,class4,low income
+# NA,D:/train\class2\36006_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class1\415003_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\513005_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class3\262010_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\493005_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class1\325014_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\423003_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class3\438012_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class0\117003_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\24009_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class3\397004_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class3\506004_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class2\163009_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class0\78011_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\481012_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class4\216006_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\73005_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\140008_HouseInterior_6.jpg,class4,higher middle income
+# N,D:/train\class0\1010016_HouseInterior_6.jpg,class0,higher middle income
+# A,D:/train\class0\8009_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\52001_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\190012_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class4\162008_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class2\35009_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class0\138006_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class2\9002_HouseInterior_6.jpg,class2,low income
+# NA,D:/train\class1\503005_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class2\85006_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class4\245001_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\249010_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\517003_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\11012_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\233009_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class3\99012_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class2\496001_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class0\457012_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\378004_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class0\329002_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class2\260010_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\336002_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\508002_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\428008_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\36013_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\222009_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class3\445005_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class1\325001_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\19003_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class2\103009_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class0\209003_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class2\37005_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class4\305011_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class1\421005_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class4\1069002_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class4\66004_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class2\234012_HouseInterior_6.jpg,class2,low income
+# NA,D:/train\class4\448001_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class3\439005_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class0\1057002_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\225003_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class2\212002_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class0\513004_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class4\22011_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class0\8001_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\335004_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class4\423011_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class3\44011_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class0\341004_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class1\64002_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class0\263005_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class2\1042006_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class2\475005_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class4\483006_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\273005_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class0\225004_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class0\224010_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class1\185006_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class2\373011_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class2\190005_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class3\221012_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\503009_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class2\263012_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class3\289004_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class0\382010_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class1\187011_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\243001_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class0\496005_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\285004_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\421013_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\467008_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class1\261001_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class4\366011_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class0\209013_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class4\240012_HouseInterior_6.jpg,class4,middle income
+# BA,D:/train\class4\119009_HouseInterior_6.jpg,class4,middle income
+# BA,D:/train\class0\38004_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class2\19008_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\453013_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class0\16001_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class3\483009_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class0\216007_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class2\210012_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class3\502012_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class2\518014_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\316006_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class3\110008_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class0\452006_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class2\135012_HouseInterior_6.jpg,class2,higher middle income
+# NA,D:/train\class1\416012_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class0\209014_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\271010_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\329009_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class1\102010_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class3\222014_HouseInterior_6.jpg,class3,low income
+# NA,D:/train\class3\512011_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\154010_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\68011_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class4\489005_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class2\211005_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\343001_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\305008_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\277009_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class4\262014_HouseInterior_6.jpg,class4,low income
+# NA,D:/train\class0\46014_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class4\510005_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class4\384009_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class4\68010_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class1\131005_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class0\80002_HouseInterior_6.jpg,class0,middle income
+# NA,D:/train\class2\109002_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class4\309009_HouseInterior_6.jpg,class4,low income
+# NA,D:/train\class4\293002_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class4\512010_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class4\94014_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class1\282004_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\387004_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class4\194005_HouseInterior_6.jpg,class4,middle income
+# NA,D:/train\class1\60014_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class3\105004_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\315001_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\303013_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\288011_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class0\187007_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class1\301003_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class1\41007_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class0\26014_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class2\309011_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\160013_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class4\323012_HouseInterior_6.jpg,class4,low income
+# NA,D:/train\class4\519004_HouseInterior_6.jpg,class4,higher middle income
+# NA,D:/train\class3\493010_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class3\146002_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class2\234009_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class1\3006_HouseInterior_6.jpg,class1,low income
+# NA,D:/train\class2\310003_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class1\275009_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class2\50006_HouseInterior_6.jpg,class2,middle income
+# NA,D:/train\class1\44004_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class0\422012_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class1\415012_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class4\1045002_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class3\437007_HouseInterior_6.jpg,class3,middle income
+# NA,D:/train\class0\43009_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class2\205001_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class2\273010_HouseInterior_6.jpg,class2,low income
+# NA,D:/train\class1\474008_HouseInterior_6.jpg,class1,middle income
+# NA,D:/train\class0\226010_HouseInterior_6.jpg,class0,lower middle income
+# NA,D:/train\class0\226013_HouseInterior_6.jpg,class0,low income
+# NA,D:/train\class1\58012_HouseInterior_6.jpg,class1,lower middle income
+# NA,D:/train\class3\280006_HouseInterior_6.jpg,class3,lower middle income
+# NA,D:/train\class4\203013_HouseInterior_6.jpg,class4,lower middle income
+# NA,D:/train\class2\53008_HouseInterior_6.jpg,class2,lower middle income
+# NA,D:/train\class3\27007_HouseInterior_6.jpg,class3,middle income

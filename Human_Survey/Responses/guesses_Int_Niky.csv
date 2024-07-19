@@ -1,0 +1,1401 @@
+Comments,URL,Actual,Predicted
+# kyuki ynha sansadhno ki bhut kami hai.,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/329004_HouseInterior_6.jpg,class0,low income
+# kyuki ynha kuchh bhi vyavshthit dhang se nhi hai aur ynha snsadhno ki bhi kami hai.,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/466004_HouseInterior_6.jpg,class2,lower middle income
+"# sansadhno ki kami,ghar ki aur saman ki bekar condition.",/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/262006_HouseInterior_6.jpg,class0,lower middle income
+"# saman ka behatr condition, furniture vyvashthit thang se hona,and well maintained house",/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/132001_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/194007_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/402008_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/274005_HouseInterior_6.jpg,class2,middle income
+"# sansadhno ki kami,bad condition of the house and furniture.",/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/118011_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/469003_HouseInterior_6.jpg,class2,middle income
+"# well maintained house,good condition of furniture and other things.",/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/61009_HouseInterior_6.jpg,class0,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/445005_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/235002_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/185004_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/370011_HouseInterior_6.jpg,class3,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/53009_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/41006_HouseInterior_6.jpg,class2,middle income
+"# ghar ki bekar condition,chijo ka aabhav.",/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/226004_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/485012_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/381003_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/519008_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/332008_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/494005_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/268002_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/408012_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/374001_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/155012_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/412002_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/498012_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1039006_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/33013_HouseInterior_6.jpg,class2,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/500002_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/341012_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/319002_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/9006_HouseInterior_6.jpg,class2,middle income
+"# better condition of the room and other things, well maintained room.",/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/504003_HouseInterior_6.jpg,class0,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/185009_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/145008_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/101009_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/199001_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/246002_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/77002_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/448003_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/283003_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1053011_HouseInterior_6.jpg,class1,high income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/262001_HouseInterior_6.jpg,class2,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/495003_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/114006_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/288004_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/318008_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/143008_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/336009_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/493009_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/79005_HouseInterior_6.jpg,class0,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/128009_HouseInterior_6.jpg,class3,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/499011_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/421003_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/497006_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/184009_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/519010_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/475004_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1069005_HouseInterior_6.jpg,class1,high income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/392010_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/70002_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/77006_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/384004_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/76004_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/113005_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/113008_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/468001_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/25012_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/285007_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/83003_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/439002_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/112011_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/95010_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/101005_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/404005_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1007003_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/139006_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/205012_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/327011_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/523012_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/181014_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/293011_HouseInterior_6.jpg,class3,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/80003_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/487007_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/28002_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/472008_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/21011_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/143003_HouseInterior_6.jpg,class2,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/153007_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/409006_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/199006_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/368007_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/274013_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/104005_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/72005_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1047002_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/425007_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/275003_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/291014_HouseInterior_6.jpg,class4,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/88010_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/83011_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/222010_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/475002_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/240005_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/69001_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/298006_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/289008_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/325004_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/209006_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/264005_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/88014_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/159009_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/473002_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/387009_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/385002_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/104004_HouseInterior_6.jpg,class2,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/337011_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/121008_HouseInterior_6.jpg,class4,high income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/22011_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/475001_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/28004_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1031018_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/190008_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/293002_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/396013_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/433008_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/142004_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/392011_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/107005_HouseInterior_6.jpg,class3,high income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/189010_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1006006_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/2012_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/97010_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/198004_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/37005_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/31009_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/299008_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/65009_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/330006_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/295009_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/210001_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/102013_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1055002_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/313004_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/507010_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/4004_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/211003_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/199002_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/251009_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/327009_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/338013_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/260009_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/42012_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/453009_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/499001_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/398012_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/105006_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/503005_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/5003_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/391006_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/375012_HouseInterior_6.jpg,class3,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/17010_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/473012_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/181012_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/408007_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1009013_HouseInterior_6.jpg,class0,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/153010_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1064008_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/383010_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/362007_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/36014_HouseInterior_6.jpg,class1,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/376014_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/94013_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/250004_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/255007_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/38014_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/511011_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/338011_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/433011_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/4008_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/200004_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1002006_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/309008_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/78006_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/493003_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/236004_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/428003_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/154002_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/126011_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/214012_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/103009_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/338001_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/66001_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1007017_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/313007_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/523011_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/9004_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/416012_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/509006_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/311009_HouseInterior_6.jpg,class2,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/12006_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/300005_HouseInterior_6.jpg,class2,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/53008_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/450013_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/448002_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/231003_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/39010_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/111002_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/503001_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/71003_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/330003_HouseInterior_6.jpg,class0,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/342012_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/458005_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/515006_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/116012_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/375004_HouseInterior_6.jpg,class4,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/418005_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/164003_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/102012_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/157001_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/290012_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/278007_HouseInterior_6.jpg,class1,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/48005_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/20008_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/104008_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/419013_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/412010_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/284006_HouseInterior_6.jpg,class0,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/461005_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/327003_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/396007_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/30010_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/199004_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/231006_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/36009_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/154010_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/429001_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/60007_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/241006_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/223001_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/127004_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/503003_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/183009_HouseInterior_6.jpg,class3,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/201010_HouseInterior_6.jpg,class2,low income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/80013_HouseInterior_6.jpg,class3,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/365003_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/71008_HouseInterior_6.jpg,class2,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/236002_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/449008_HouseInterior_6.jpg,class2,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/429011_HouseInterior_6.jpg,class4,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/506010_HouseInterior_6.jpg,class3,middle income
+# nna,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/296001_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/152009_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/426006_HouseInterior_6.jpg,class1,middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1071002_HouseInterior_6.jpg,class0,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/133003_HouseInterior_6.jpg,class4,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/45001_HouseInterior_6.jpg,class0,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/434003_HouseInterior_6.jpg,class1,lower middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1006007_HouseInterior_6.jpg,class0,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/20007_HouseInterior_6.jpg,class3,higher middle income
+# na,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/336011_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/381001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/412005_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/3009_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/96012_HouseInterior_6.jpg,class3,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/147011_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/501002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/331014_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/367002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/186011_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/376007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/451001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/107010_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/397011_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/40011_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/434002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/387008_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/411003_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1040004_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/407007_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/367008_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/260005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1016001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/163003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/518006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/143001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/239004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/474008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/505006_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/492007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/388002_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/487014_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/317004_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/258009_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/128005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/406004_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/512003_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/496009_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1010006_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/266009_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/19009_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/470010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/491010_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/70007_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/129002_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/383004_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/137012_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/378001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/52010_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/115004_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/448006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/381006_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/53005_HouseInterior_6.jpg,class3,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/260006_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/291010_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/419006_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/439009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1060005_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/194010_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/115011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/375007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/423001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/511012_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/71009_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/14012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/40002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/127010_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/306002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/265011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/271010_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/124010_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/405011_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/414004_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/289012_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/339009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/437005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/146011_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/61001_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/206002_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/371003_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/400003_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/204007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/323012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/476005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/268001_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/284009_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/4011_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/471001_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/370002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/17007_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/53012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/66006_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/436008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/140001_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/116003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/391004_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/436013_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/343014_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/431011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1023016_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/340014_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/271009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/295013_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/281009_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/211009_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/482001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/257002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/228009_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/236008_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/412009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/193004_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/39012_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/137007_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/10010_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/246006_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/152008_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1055004_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/524011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/255008_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/255010_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/162009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/343013_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/206012_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/362009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/164002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/200001_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1049012_HouseInterior_6.jpg,class3,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/100006_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/22009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/282002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/290004_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/134004_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/306001_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/94005_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/36006_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/435002_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/119003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1007018_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/249012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/319003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/108003_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/386009_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/217007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/226001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/317006_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/37003_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1040001_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/195010_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/92003_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/159010_HouseInterior_6.jpg,class3,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/164013_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/333011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/198002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/257008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/82007_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/397009_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/236006_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/53006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/520008_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/120009_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/504007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/100005_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1053017_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/463010_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/238008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/397002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/431001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/466007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/37004_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/371005_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/251014_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/119007_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/122014_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/384005_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/118013_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/299002_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/333013_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/108002_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/42011_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/329008_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/2013_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/55004_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/484007_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/416005_HouseInterior_6.jpg,class3,middle income
+# NAN,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/439010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/338012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/56002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/200012_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/453008_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/273002_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/182006_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1031004_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/420007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/203005_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1042002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/64011_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/149002_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/446012_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/432013_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/194006_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/364009_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/158010_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1057001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/144001_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/58001_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/27001_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/120003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/334010_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/415012_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/137004_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/89006_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/8012_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/59010_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/366005_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/437001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/76003_HouseInterior_6.jpg,class2,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1033011_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/90012_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/483009_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/58002_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/15003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/491002_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/504009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/44002_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/79008_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/440005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/406010_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/417011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/88009_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/65011_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/103005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/472004_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/5002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/381002_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/384002_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/398013_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/488012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1047003_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/82002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/96011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/380001_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1013006_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/107003_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1069001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/287005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/461009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/249011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/515005_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/466011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/64004_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/380009_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/67011_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/439012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/278006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/505003_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/105012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/149004_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/510007_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/336007_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/90007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/163006_HouseInterior_6.jpg,class3,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/4005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/438008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/293012_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/139004_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/253007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/511002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/73004_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1013002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/437013_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/399007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/128003_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/405012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/475012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/277005_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/362010_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/307004_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/289009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1009007_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/491009_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/208006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/145003_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/386002_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/199011_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/265006_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/129009_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/18005_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/58005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/116010_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/496005_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/482013_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/454011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/522003_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/208008_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/479001_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/448014_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/158006_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/47005_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/285005_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/214004_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/30006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/510011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/110001_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/276004_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/73012_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/149001_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/86012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/204001_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/225005_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/156003_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/152006_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/434009_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1009006_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/7003_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/63009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/413005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/310002_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/75009_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/388009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/448007_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/161012_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/135008_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/524010_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/17012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/427003_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/331010_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/157008_HouseInterior_6.jpg,class3,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/257006_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/507005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/468013_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/364003_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/490004_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/465005_HouseInterior_6.jpg,class2,lower middle income
+# NAA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/221006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/342004_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/303013_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1045002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/290006_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/156010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/130009_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/460001_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/477005_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/111006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/450001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/46010_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/146002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/2014_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/34001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/497009_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/452001_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/488007_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/462005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/329011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/410005_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/240007_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/107012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/46005_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/101012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/489009_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/18002_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/140008_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/370009_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/33012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/71006_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/387013_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/406005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/119011_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/325003_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/203004_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1031006_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/294010_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1041002_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/364007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/55003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/107007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/309014_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/24006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/378005_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/37001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/439003_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/404003_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/465012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/70011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/443008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/508005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/259004_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/361012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/242010_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/299001_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/274002_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/106003_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/283002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/494013_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/433002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/221008_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/270002_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/453011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/11012_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/401012_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/38001_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/282012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/471011_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/193013_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/507009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/99004_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/84012_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/372002_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/449009_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/387010_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/375003_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/381007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/159005_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/147007_HouseInterior_6.jpg,class0,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/148007_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/164011_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/487010_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/435004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/506002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/478011_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/14008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/245008_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/484010_HouseInterior_6.jpg,class3,middle income
+# NO,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/243008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/311003_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/369001_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/394006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/427004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/55012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/452006_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/130012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/481009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/297012_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/267008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/454006_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/190009_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/291013_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/119012_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/18009_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/13001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/467004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/6010_HouseInterior_6.jpg,class4,middle income
+# N,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/419005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/423005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/163008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/56001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/94003_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/75003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/383005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/217010_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1002007_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/126009_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/418009_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/330012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/273010_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/162001_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/117001_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/66007_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/464014_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/244001_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/327002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/432012_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/126010_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/373006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/142003_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/120006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/272006_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/197002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/234013_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/462004_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/482006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/387011_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/135011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/324010_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/183008_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/80010_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/368009_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/141002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/217002_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/403001_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/224004_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/498006_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/145005_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/324003_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/11006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/487003_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/37002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/519002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/427002_HouseInterior_6.jpg,class3,middle income
+# NNA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/340002_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/83001_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/366009_HouseInterior_6.jpg,class2,middle income
+# NNA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/238006_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/200010_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/295008_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/370012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/281012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/283004_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/123012_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/23002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/275009_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/493012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/54008_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/242005_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/102002_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/457008_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/435008_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/370006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/25003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/424010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/214005_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/278001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/463011_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/258011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/477012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/505008_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/344007_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/283006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/333009_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/266012_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/55006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/513011_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/225003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/486004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/204005_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/42013_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/10004_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/198003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/460004_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/62006_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/121001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/18011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/454005_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/91009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/439007_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/381005_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1032018_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/422007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/391010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/71012_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/226010_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/299005_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/498007_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/296005_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/200006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1017002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/133012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/400005_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1040017_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/186009_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/42009_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/373012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/4013_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/152001_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/54013_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/231011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/293010_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/327010_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/268009_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/284001_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/321005_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/272010_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/271004_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/409011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/283014_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/2008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/289011_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/163010_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/148004_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/504002_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/251008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/239012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1036003_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/102008_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/258003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/378006_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/40010_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/225010_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/113006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/432011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/155005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/194004_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/58009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/251010_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/450005_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/269003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/311006_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/394002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1007006_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/284010_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/151003_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/67006_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/478013_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/382012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/139012_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/146013_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/248007_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/238005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/477009_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/436002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/18008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/93010_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/259011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1015018_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/386005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/315009_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/509012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/270006_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/231001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/393003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/154011_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/314009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1073018_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/278005_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/366011_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/502001_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/137002_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/243007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/478004_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/456011_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/280006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/128002_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/4012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/191008_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/271012_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/520007_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/477007_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/20006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/193007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/316007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/14011_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/373003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/73003_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/132011_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/269004_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/160014_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/412003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/191006_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/344008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/221012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/479011_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/410010_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/343012_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/203012_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/404008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/307001_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/336003_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/278004_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/10009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/513007_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1030003_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/364002_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/314006_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/36011_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/23011_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/276011_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/89007_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/411004_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/459011_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/197006_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/410011_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/1008_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1055003_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/246001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/523001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1060002_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/234002_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/22014_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/227012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/25004_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/245001_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/84005_HouseInterior_6.jpg,class0,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/495010_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/94014_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/387006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/426011_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/495012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/434007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/149012_HouseInterior_6.jpg,class2,middle income
+#  NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/78009_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/449006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/106004_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/24009_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/239008_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/441007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/19011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/116011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/156006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/67012_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/211004_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/387005_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/62005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/153009_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/263002_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/103004_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/46014_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/389003_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/296009_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/490009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/418012_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/405007_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1063017_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/342002_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/384011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/93006_HouseInterior_6.jpg,class1,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/307008_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/410006_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/192012_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/17003_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/211002_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/262005_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/118012_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/430003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/279010_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/221011_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/63007_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/499005_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/107002_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/515002_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/327005_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/327008_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/2004_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/87006_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/332010_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/20005_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/500003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/330008_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/364012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1010012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/241004_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/301008_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/101010_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/138003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/501008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1017008_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/308007_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/279003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/496012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/140003_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/237006_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/399003_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/288009_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/220007_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/265014_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/451007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/31001_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/88003_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/115001_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/393013_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/151008_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/411009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/490013_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/515001_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/198007_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/437009_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/430007_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/488005_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/505009_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1022001_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/46002_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/157004_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/114007_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/7001_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/19008_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/475003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/9001_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/438006_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/425008_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/483012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/78008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/143011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/250005_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/24013_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/37010_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1013007_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/415005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/251003_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/279004_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/473001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/432009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/47008_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/192004_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/122010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/123006_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/276006_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/57008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1073012_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/494001_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/505004_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/405009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/192009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/82001_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/324008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/201011_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/45007_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/156009_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/200011_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/485007_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1017012_HouseInterior_6.jpg,class0,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/492013_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/134014_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/88007_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/204006_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/321013_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/272003_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/513012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/25005_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/76007_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/291002_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/243013_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/475005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/366004_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/75010_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/474009_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1015001_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/226009_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/379004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/379001_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/470012_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/28005_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/83010_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/76010_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/392009_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/474002_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/90014_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/147002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/395008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/75004_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/114012_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/221005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/190012_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/223009_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/456006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/1047001_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/135002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/17002_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/192006_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/309007_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/512001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/222011_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/320006_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/399013_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/522009_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/365005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/101001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/517006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/49006_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/130001_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/489001_HouseInterior_6.jpg,class4,lower middle income
+# NAA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/497008_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/84002_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/220006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/237012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/264004_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/274007_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/158003_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/99010_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/422005_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/420003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/518002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/497004_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/183004_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/100008_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/203006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/52001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/419003_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/53004_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/317002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/153003_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/383011_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/210011_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/421002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/267013_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/417002_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/430010_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/376008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/71001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/8011_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/151012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/109012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/430014_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/401010_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/467001_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/234006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/221014_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/90003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/188003_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/363003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/461012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/193006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/181002_HouseInterior_6.jpg,class1,low income
+# NNA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/77010_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/446008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/475010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/139007_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/397012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/70003_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/311014_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/88002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/379013_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/507008_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/383009_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/472011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/270005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/381010_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/324004_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/181006_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/123007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/438001_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/307012_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/311012_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/511003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1016017_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/21008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/103007_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/20009_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/38004_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/232002_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/48002_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/161003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/77009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/445007_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/91012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/191004_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/332009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/99009_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/137009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/298004_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/343009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/152003_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/484012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/462010_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/467008_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/464008_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/387003_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/130002_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/284012_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/308002_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/22008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/307005_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/480007_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/416009_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/52003_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1060011_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/363014_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/29001_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/307003_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/311008_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/80009_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/303001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/429004_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/307013_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/25008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/182004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/253011_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/80011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/296012_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/367011_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/89012_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/146006_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/130014_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/375006_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/1010001_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/158007_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/103006_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/269014_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/387014_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/512010_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/472009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/520004_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/427012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/36008_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/337003_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/508011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/110006_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/213005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/501004_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/403009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/371011_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/92014_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/219001_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/310003_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/55005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/126013_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/1040011_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/64013_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/21012_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/231012_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/183010_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/441001_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/500014_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1039005_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/54011_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/231002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/201002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/227001_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/216003_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/270010_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/397007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/162007_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/509008_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/200009_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/10011_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/48014_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/104012_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/64005_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/496008_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/337009_HouseInterior_6.jpg,class0,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/519012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/27009_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/385001_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1012005_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/477006_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/508012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/30009_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/16008_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/396012_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/218001_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/298003_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/70005_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/86014_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/1009016_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/269010_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/512005_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/257004_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/485005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/260013_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/189008_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/9008_HouseInterior_6.jpg,class0,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/379003_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/404007_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/44012_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/259007_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/264007_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/5012_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/458012_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/129008_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/420004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/320003_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/218002_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/51011_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/210004_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/3005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/91008_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/291011_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/335014_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/473004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/7008_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/492005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/476002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/216009_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/494008_HouseInterior_6.jpg,class1,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/158001_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/245011_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/218008_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/162014_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/367004_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/462014_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/371010_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/218004_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/321001_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/47011_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/458009_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/389012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/416007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/76005_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/432006_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/126003_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/493004_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/451002_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/78002_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/149005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/145002_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/280001_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/43012_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/21005_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/10014_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/16006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/1045012_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/29010_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/26009_HouseInterior_6.jpg,class3,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/21001_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/24008_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/497001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/430001_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/163002_HouseInterior_6.jpg,class3,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/160001_HouseInterior_6.jpg,class4,high income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/36013_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/185006_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/379006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/195002_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/439004_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/106007_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/488002_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/370008_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/67008_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/316011_HouseInterior_6.jpg,class2,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/504008_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/36002_HouseInterior_6.jpg,class2,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/456012_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/1003006_HouseInterior_6.jpg,class1,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/8005_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/288014_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/415006_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/516014_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/56007_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/278012_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/12007_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/115008_HouseInterior_6.jpg,class0,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/155006_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/275006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/371013_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/57007_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/496007_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/341010_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/113001_HouseInterior_6.jpg,class4,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/35005_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/253013_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/274008_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/324001_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/384009_HouseInterior_6.jpg,class4,higher middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/374005_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/445004_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/460003_HouseInterior_6.jpg,class3,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/331012_HouseInterior_6.jpg,class4,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/58010_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class4/282011_HouseInterior_6.jpg,class4,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/433001_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/244003_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/81006_HouseInterior_6.jpg,class2,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class3/210008_HouseInterior_6.jpg,class3,middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/65008_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/324006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/436006_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/522002_HouseInterior_6.jpg,class1,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/193008_HouseInterior_6.jpg,class1,low income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class0/16013_HouseInterior_6.jpg,class0,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class2/376004_HouseInterior_6.jpg,class2,lower middle income
+# NA,/hdd/Aatif/AHI Data/Cleaned (duplicates and missingness)/interior/train/class1/237007_HouseInterior_6.jpg,class1,lower middle income
